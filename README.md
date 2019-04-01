@@ -1,6 +1,6 @@
 # SkilStak `tmux` Screen-Compatible Configuration
 
-![TMUX Logo](logo.png)
+![TMUX Logo](logo-small.png)
 
 The `tmux` terminal multiplexer is a standard tool these days but keeping its usage compatible with the original `screen` has obvious objective benefits in terms of muscle memory. `screen` is on everything by default. `tmux` isn't.
 
