@@ -1,4 +1,4 @@
-# SkilStak Tmux Screen-Compatible Configuration
+# SkilStak `tmux` Screen-Compatible Configuration
 
 ![TMUX Logo](logo.png)
 
