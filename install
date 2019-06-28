@@ -1,3 +1,4 @@
 #!/bin/bash
 
+[[ ! $(type tmux) ]] && sudo apt install tmux
 ln -sf $PWD/tmux.conf $HOME/.tmux.conf
