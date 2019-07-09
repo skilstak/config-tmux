@@ -1,6 +1,6 @@
 # Screen-Compatible tmux (Terminal Multiplexer) Configuration
 
-*[This repo is mirrored from ![Fox](gitlab.png) GitLab (a far superior Git hosting platform).](https://gitlab.com/skilstak/config/tmux)*
+*[This repo is mirrored from ![Fox](gitlab.png) GitLab (a superior Git hosting platform).](https://gitlab.com/skilstak/config/tmux)*
 
 ![TMUX Logo](logo-large.png)
 
