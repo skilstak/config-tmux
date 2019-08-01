@@ -1,4 +1,4 @@
 #!/bin/bash
 
-[[ ! $(type tmux) ]] && sudo apt install tmux
+[[ ! $(type tmux) ]] && echo "Install tmux first. Exiting." && exit 1
 ln -sf $PWD/tmux.conf $HOME/.tmux.conf
